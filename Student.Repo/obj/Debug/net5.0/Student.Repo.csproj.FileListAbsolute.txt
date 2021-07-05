@@ -1,0 +1,15 @@
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.csproj.AssemblyReference.cache
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.AssemblyInfoInputs.cache
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.AssemblyInfo.cs
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.csproj.CoreCompileInputs.cache
+F:\test\StudentManagement\Student.Repo\bin\Debug\net5.0\Student.Repo.deps.json
+F:\test\StudentManagement\Student.Repo\bin\Debug\net5.0\Student.Repo.dll
+F:\test\StudentManagement\Student.Repo\bin\Debug\net5.0\ref\Student.Repo.dll
+F:\test\StudentManagement\Student.Repo\bin\Debug\net5.0\Student.Repo.pdb
+F:\test\StudentManagement\Student.Repo\bin\Debug\net5.0\Student.Entity.dll
+F:\test\StudentManagement\Student.Repo\bin\Debug\net5.0\Student.Entity.pdb
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.csproj.CopyComplete
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.dll
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\ref\Student.Repo.dll
+F:\test\StudentManagement\Student.Repo\obj\Debug\net5.0\Student.Repo.pdb

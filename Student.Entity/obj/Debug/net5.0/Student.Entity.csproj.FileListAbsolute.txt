@@ -1,0 +1,15 @@
+F:\test\StudentManagement\Student.Entity\bin\Debug\net5.0\Student.Entity.deps.json
+F:\test\StudentManagement\Student.Entity\bin\Debug\net5.0\Student.Entity.runtimeconfig.json
+F:\test\StudentManagement\Student.Entity\bin\Debug\net5.0\Student.Entity.runtimeconfig.dev.json
+F:\test\StudentManagement\Student.Entity\bin\Debug\net5.0\Student.Entity.dll
+F:\test\StudentManagement\Student.Entity\bin\Debug\net5.0\ref\Student.Entity.dll
+F:\test\StudentManagement\Student.Entity\bin\Debug\net5.0\Student.Entity.pdb
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.AssemblyInfoInputs.cache
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.AssemblyInfo.cs
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.csproj.CoreCompileInputs.cache
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.dll
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\ref\Student.Entity.dll
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.pdb
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.genruntimeconfig.cache
+F:\test\StudentManagement\Student.Entity\obj\Debug\net5.0\Student.Entity.csproj.AssemblyReference.cache
